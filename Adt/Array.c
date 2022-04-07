@@ -30,6 +30,8 @@ void setVal(struct  myArray *a)
         (a->ptr)[i] = n;
     }
 }
+//abhi git use karo
+
 
 int main()
 {
