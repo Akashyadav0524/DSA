@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "new": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "typeinfo": "cpp"
+    }
+}
